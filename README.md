@@ -1,2 +1,3 @@
 # BrightSpace
-BrightSpace collaboration
+
+BrightSpace collaboration repository.
